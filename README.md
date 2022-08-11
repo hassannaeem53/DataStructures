@@ -1,10 +1,10 @@
 # DataStructures Implementation in C++
 
-## Added DataStructures are;
-- Singly Linked List
-- Doubly Linked List
+## Added DataStructures;
+- <a href='#singly-linked-list'>Singly Linked List</a>
+- <a href='#doubly-linked-list'>Doubly Linked List</a>
 
-### Single Linked List
+### Singly Linked List
 <p>
    It is the simplest type of linked list in which every node contains some data and a pointer to the next node of the same data type. The node contains a pointer to the next node means that the node stores the address of the next node in the sequence. A single linked list allows the traversal of data only in one way.
    <Img src='https://cdn.programiz.com/sites/tutorial2program/files/linked-list-concept_0.png' alt='Single Linked List' >
