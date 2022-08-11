@@ -18,5 +18,8 @@
     <ClCompile Include="LinkedListcpp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DoubleLinkedList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
